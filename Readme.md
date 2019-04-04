@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [default.aspx](./CS/WebSite/default.aspx) (VB: [default.aspx.vb](./VB/WebSite/default.aspx.vb))
+* [default.aspx](./CS/WebSite/default.aspx) (VB: [default.aspx](./VB/WebSite/default.aspx))
 * [default.aspx.cs](./CS/WebSite/default.aspx.cs) (VB: [default.aspx.vb](./VB/WebSite/default.aspx.vb))
 <!-- default file list end -->
 # ASPxCheckBox - How to change the editor's Text
